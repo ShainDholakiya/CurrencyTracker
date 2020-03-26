@@ -1,4 +1,4 @@
-# BitCoin
+# ByteCoin
 
 ## Description
 
