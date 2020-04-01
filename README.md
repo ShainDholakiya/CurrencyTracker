@@ -2,7 +2,7 @@
 
 ## Description
 
-You will be able to see the latest Bitcoin prices in all the popular traded currencies as well as the USD.
+You will be able to see the latest Bitcoin prices in all the popular traded currencies as well as the USD conversion rates.
 
 ### API Used
 
